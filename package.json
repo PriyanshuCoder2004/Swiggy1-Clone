@@ -2,10 +2,10 @@
   "name": "day17",
   "version": "1.0.0",
   "scripts": {
-    "start": "parcel index.html",
-    "dev": "parcel index.html",
-    "build": "parcel build index.html --dist-dir dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "start": "parcel src/index.html",
+     "dev": "parcel src/index.html",
+     "build": "parcel build src/index.html --dist-dir dist",
+     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
