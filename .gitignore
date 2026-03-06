@@ -1,0 +1,14 @@
+# Dependency and build folders
+node_modules/
+.parcel-cache/
+
+
+# Temp/test files
+tester.html
+
+# OS/system artifacts
+.DS_Store
+Thumbs.db
+
+# Docs
+README.md
