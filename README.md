@@ -7,7 +7,7 @@ This project allows users to explore restaurants, browse menus, search food item
 
 ## 🚀 Live Demo
 
-(Add your deployed project link here after deploying on Vercel)
+https://swiggy1-clone-33jr.vercel.app/
 
 ---
 
